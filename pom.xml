@@ -23,6 +23,7 @@
     <module>spring-boot-agent</module>
     <module>spring-cloud-gateway</module>
     <module>spring-mvc-logger</module>
+    <module>spring-boot-test-apollo</module>
   </modules>
 
   <properties>

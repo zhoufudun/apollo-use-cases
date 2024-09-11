@@ -1,4 +1,4 @@
-package com.ctrip.framework.apollo.use.cases.spring.boot.logger;
+package com.ctrip.framework.apollo.use.cases.spring.boot.apollo;
 
 import com.ctrip.framework.apollo.Config;
 import com.ctrip.framework.apollo.model.ConfigChangeEvent;

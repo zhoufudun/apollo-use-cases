@@ -1,4 +1,4 @@
-package com.ctrip.framework.apollo.use.cases.spring.boot.logger;
+package com.ctrip.framework.apollo.use.cases.spring.boot.apollo;
 
 import java.util.concurrent.Executors;
 import org.slf4j.Logger;
